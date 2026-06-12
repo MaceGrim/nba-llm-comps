@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Run state and regenerable outputs
+progress.json
+viz_data.json
+pair_votes.json
